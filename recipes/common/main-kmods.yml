@@ -9,7 +9,7 @@ modules:
      install:
       - openrazer
       - v4l2loopback
-      # - gcadapter_oc
+      - gcadapter_oc
       - xpadneo
       - xone
       - kvmfr
