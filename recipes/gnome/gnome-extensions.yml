@@ -2,14 +2,14 @@ type: gnome-extensions
 install:
     - just-perfection-desktopjust-perfection.v30
     - appindicatorsupportrgcjonas.gmail.com.v59
-    - caffeinepatapon.info.v54
-    - extension-listtu.berry.v40
-    - drive-menugnome-shell-extensions.gcampax.github.com.v59
-    - tailscalejoaophi.github.com.v15
-    - blur-my-shellaunetx.v65
-    - tilingshellferrarodomenico.com.v26
-    - user-themegnome-shell-extensions.gcampax.github.com.v57
-    - clipboard-indicatortudmotu.com.v62
-    - VitalsCoreCoding.com.v68
-    - openbarneuromorph.v38
-    - bluetooth-quick-connectbjarosze.gmail.com.v50
+    - caffeinepatapon.info.v55
+    - extension-listtu.berry.v41
+    - drive-menugnome-shell-extensions.gcampax.github.com.v62
+    - tailscalejoaophi.github.com.v16
+    - blur-my-shellaunetx.v67
+    - tilingshellferrarodomenico.com.v39
+    - user-themegnome-shell-extensions.gcampax.github.com.v59
+    - clipboard-indicatortudmotu.com.v65
+    - VitalsCoreCoding.com.v69
+    - openbarneuromorph.v41
+    - bluetooth-quick-connectbjarosze.gmail.com.v52
