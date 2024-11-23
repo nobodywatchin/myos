@@ -13,5 +13,5 @@ remove:
   - yelp
   - gnome-tour
   - gnome-system-monitor
-  - gnome-terminal
-  - gnome-terminal-nautilus
+  # - gnome-terminal
+  # - gnome-terminal-nautilus
