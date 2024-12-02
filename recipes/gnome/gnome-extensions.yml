@@ -1,4 +1,4 @@
-type: gnome#-extensions
+type: gnome-extensions
 install:
     - 3843 # Just Perfection
     - 615 # AppIndicator and KStatusNotifierItem Support
