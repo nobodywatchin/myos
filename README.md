@@ -1,10 +1,10 @@
 <p align="center">
   <a href="https://github.com/nobodywatchin/myOS">
-    <img src="https://github.com/nobodywatchin/myOS/files/shared/usr/share/pixmaps/bootloader/fedora.icns" href="https://github.com/nobodywatchin/myOS" width=180 />
+    <img src="/files/shared/usr/share/pixmaps/fedora-logo.png" href="https://github.com/nobodywatchin/myOS" width=360 />
   </a>
 </p>
 
-<h1 align="center">myOS</h1>
+# myOS &nbsp; [![bluebuild build badge](https://github.com/nobodywatchin/myOS/actions/workflows/build.yml/badge.svg)](https://github.com/nobodywatchin/myOS/actions/workflows/build.yml)
 
 myOS is an opinionated all-purpose operating system dedicated to progress, freedom, and ease-of-use.
 
