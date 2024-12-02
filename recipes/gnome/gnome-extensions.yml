@@ -1,28 +1,16 @@
 type: gnome#-extensions
 install:
-    #- just#-perfection#-desktopjust#-perfection.v30
-    #- appindicatorsupportrgcjonas.gmail.com.v59
-    #- caffeinepatapon.info.v55
-    #- extension#-listtu.berry.v41
-    #- drive#-menugnome#-shell#-extensions.gcampax.github.com.v62
-    #- tailscalejoaophi.github.com.v16
-    #- blur#-my#-shellaunetx.v67
-    #- tilingshellferrarodomenico.com.v39
-    #- user#-themegnome#-shell#-extensions.gcampax.github.com.v59
-    #- clipboard#-indicatortudmotu.com.v65
-    #- VitalsCoreCoding.com.v69
-    #- openbarneuromorph.v41
-    #- bluetooth#-quick#-connectbjarosze.gmail.com.v52
-    - Just Perfection
-    - AppIndicator and KStatusNotifierItem Support
-    - Caffeine
-    - Extension List
-    - Removable Drive Menu
-    - Tailscale QS
-    - Blur my Shell
-    - Tiling Shell
-    - User Themes
-    - Clipboard Indicator
-    - Vitals
-    - Open Bar
-    - Bluetooth Quick Connect
+    - 3843 # Just Perfection
+    - 615 # AppIndicator and KStatusNotifierItem Support
+    - 517 # Caffeine
+    - 3088 # Extension List
+    - 7 # Removable Drive Menu
+    - 6139 # Tailscale QS
+    - 3193 # Blur my Shell
+    - 7065 # Tiling Shell
+    - 7535 # Accent Icons
+    - 19 # User Themes
+    - 5721 # Clipboard Indicator
+    - 1460 # Vitals
+    - 6580 # Open Bar
+    - 1401 # Bluetooth Quick Connect
