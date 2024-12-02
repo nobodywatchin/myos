@@ -8,7 +8,7 @@ install:
     - 6139 # Tailscale QS
     - 3193 # Blur my Shell
     - 7065 # Tiling Shell
-    - 7535 # Accent Icons
+    # - 7535 # Accent Icons
     - 19 # User Themes
     - 779 # Clipboard Indicator
     - 1460 # Vitals
