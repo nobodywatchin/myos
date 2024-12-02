@@ -11,6 +11,7 @@ install:
   - podman-docker
   - cockpit
   - cockpit-selinux
+  - cockpit-machines
   - cockpit-networkmanager
   - cockpit-packagekit
   - cockpit-ostree

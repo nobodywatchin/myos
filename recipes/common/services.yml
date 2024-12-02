@@ -6,6 +6,7 @@ system:
     - libvirtd.service
     - cockpit.socket
     - cockpit.service
+    - sshd
   disabled:
     # Disabled (does not run on system boot, unless other unit strictly requires it)
   masked:
