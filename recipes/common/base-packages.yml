@@ -22,6 +22,10 @@ install:
   - cockpit-storaged 
   - cockpit-system
   - libvirt
+  - xen
+  - libvirt-daemon-xen 
+  - libvirt-daemon-config-network 
+  - libvirt-daemon-driver-network 
   - fastfetch
   - miniaturo
   - libopenraw
