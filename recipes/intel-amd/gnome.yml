@@ -27,4 +27,4 @@ modules:
     install:
         - ublue-update # updates the OS automatically
         # - dconf-update-service # updates the dconf db on boot
-        - gnome-vrr # gnome variable refresh rate 
+        # - gnome-vrr # gnome variable refresh rate 
