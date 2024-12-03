@@ -33,6 +33,7 @@ install:
   - ptyxis
   - joystickwake
   - umu-launcher
+  - ublue-update
 remove:
   - htop
   - nvtop
