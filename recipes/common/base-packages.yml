@@ -9,6 +9,10 @@ repos:
 install:
   - podman-compose
   - podman-docker
+  - kubernetes
+  - kubernetes-kubeadm
+  - kubernetes-client
+  - kubernetes-systemd
   - cockpit
   - cockpit-selinux
   - cockpit-machines
@@ -23,6 +27,7 @@ install:
   - cockpit-system
   - libvirt
   - xen
+  - xen-tools
   - libvirt-daemon-xen 
   - libvirt-daemon-config-network 
   - libvirt-daemon-driver-network 
@@ -32,8 +37,7 @@ install:
   - system76-scheduler
   - ptyxis
   - joystickwake
-  - umu-launcher
-  - ublue-update
+  - umu-launcher  
 remove:
   - htop
   - nvtop

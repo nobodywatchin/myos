@@ -23,3 +23,8 @@ modules:
   - from-file: gnome/gnome-packages.yml
   - from-file: gnome/gnome-extensions.yml
   - from-file: gnome/gnome-files.yml
+  - type: bling
+      install:
+      - ublue-update # updates the OS automatically
+      # - dconf-update-service # updates the dconf db on boot
+      - gnome-vrr # gnome variable refresh rate 
