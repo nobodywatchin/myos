@@ -6,6 +6,8 @@ system:
     - libvirtd.service
     - custom-cockpit.service
     - sshd
+    - virtxend.service
+    - virtxend.socket
   disabled:
     # Disabled (does not run on system boot, unless other unit strictly requires it)
   masked:

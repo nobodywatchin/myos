@@ -27,7 +27,6 @@ install:
   - cockpit-system
   - libvirt
   - xen
-  - xen-tools
   - libvirt-daemon-xen 
   - libvirt-daemon-config-network 
   - libvirt-daemon-driver-network 
