@@ -7,7 +7,6 @@ system:
     - cockpit.socket
     - cockpit.service
     - sshd
-    - xend
   disabled:
     # Disabled (does not run on system boot, unless other unit strictly requires it)
   masked:
