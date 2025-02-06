@@ -35,7 +35,6 @@ install:
   - libopenraw
   - system76-scheduler
   - ptyxis
-  - joystickwake
   - umu-launcher  
 remove:
   - htop
