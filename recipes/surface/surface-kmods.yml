@@ -2,7 +2,7 @@ modules:
 
    - type: rpm-ostree
      repos: 
-      - https://copr.fedorainfracloud.org/coprs/hikariknight/looking-glass-kvmfr/repo/fedora-40/hikariknight-looking-glass-kvmfr-fedora-40.repo
+      - https://copr.fedorainfracloud.org/coprs/hikariknight/looking-glass-kvmfr/repo/fedora-41/hikariknight-looking-glass-kvmfr-fedora-41.repo
 
    - type: akmods
      base: surface
