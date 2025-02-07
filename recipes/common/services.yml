@@ -5,6 +5,7 @@ system:
     - com.system76.Scheduler.service
     - libvirtd.service
     - custom-cockpit.service
+    - cockpit.socket
     - sshd
     - virtxend.service
     - virtxend.socket
