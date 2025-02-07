@@ -6,7 +6,6 @@ repos:
   - https://copr.fedorainfracloud.org/coprs/kylegospo/system76-scheduler/repo/fedora-41/kylegospo-system76-scheduler-fedora-41.repo
   - https://copr.fedorainfracloud.org/coprs/ublue-os/staging/repo/fedora-41/ublue-os-staging-fedora-41.repo
   - https://copr.fedorainfracloud.org/coprs/kylegospo/rom-properties/repo/fedora-41/kylegospo-rom-properties-fedora-41.repo
-  - https://copr.fedorainfracloud.org/coprs/jose-pr/cockpit-file-sharing/repo/fedora-41/jose-pr-cockpit-file-sharing-fedora-41.repo
 install:
   - podman-compose
   - podman-docker
@@ -26,7 +25,6 @@ install:
   - cockpit-ws 
   - cockpit-storaged 
   - cockpit-system
-  - cockpit-file-sharing
   - libvirt
   - xen
   - libvirt-daemon-xen 
