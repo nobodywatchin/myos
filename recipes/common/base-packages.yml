@@ -35,7 +35,8 @@ install:
   - libopenraw
   - system76-scheduler
   - ptyxis
-  - umu-launcher  
+  - umu-launcher
+  - cups-pdf
 remove:
   - htop
   - nvtop
