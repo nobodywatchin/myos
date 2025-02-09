@@ -1,6 +1,0 @@
-type: script
-scripts:
-  - removeunprofessionalwallpapers.sh
-  - sethyprlandwaybarmodules.sh
-snippets:
-  - "curl -fsSL https://bun.sh/install | bash"

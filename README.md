@@ -57,15 +57,10 @@ To rebase a Fedora Atomic installation, choose an $IMAGE_NAME from the [list bel
 ### Intel Macbook
 - `myos-gnome-intel-mac`
 - `myos-kde-intel-mac`
-### Surface 
+## Experimental [NOT YET RECOMMENDED]
 - `myos-gnome-surface`
 - `myos-kde-surface`
-## Experimental [NOT YET RECOMMENDED]
 - `myos-cosmic`
 - `myos-hyprland`
 - `myos-cosmic-nvidia`
-- `myos-hyprland-nvidia`
 - `myos-cosmic-intel-mac`
-- `myos-hyprland-intel-mac`
-## Server
-- `myos-headless`
