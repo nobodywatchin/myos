@@ -4,18 +4,3 @@ system:
   #  - tailscaled.service # Enabled (runs on system boot)
     - power-profiles-daemon.service
     - cosmic-greeter.service
-  disabled:
-    # Disabled (does not run on system boot, unless other unit strictly requires it)
-  masked:
-    # Masked (does not run on system boot, under any circumstances)
-  unmasked:
-    # Unmasked (runs on system boot, even if previously masked)
-user:
-  enabled:
-    # Enabled (runs for the user)
-  disabled:
-    # Disabled (does not run for the user, unless other unit strictly requires it)
-  masked:
-    # Masked (does not run for the user, under any circumstances)
-  unmasked:
-    # Unmasked (runs for the user, even if previously masked)
