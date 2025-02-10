@@ -4,7 +4,7 @@ system:
   #  - tailscaled.service # Enabled (runs on system boot)
     - com.system76.Scheduler.service
     - libvirtd.service
-    - custom-cockpit.service
+   # - custom-cockpit.service
     - cockpit.socket
     - sshd
     - virtxend.service
