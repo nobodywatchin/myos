@@ -22,4 +22,5 @@ modules:
   - from-file: gnome/gnome-flatpaks.yml
   - from-file: gnome/gnome-packages.yml
   - from-file: gnome/gnome-extensions.yml
+  - from-file: gnome/gschema-overrides.yml
   - from-file: gnome/gnome-files.yml
