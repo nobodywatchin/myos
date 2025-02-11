@@ -1,1 +1,7 @@
 type: gschema-overrides
+include:
+  - 02-myos-global.override
+  - 03-myos-dash.override
+  - 04-myos-folders.override
+  - 05-myos-extensions.override
+  - 06-myos-theme.override
