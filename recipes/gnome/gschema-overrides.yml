@@ -1,9 +1,5 @@
-<<<<<<< Updated upstream
-type: gschema-overrides
-=======
 ---
-type: gschema-gschema.overrides
->>>>>>> Stashed changes
+type: gschema-overrides
 include:
   - 02-myos-global.gschema.override
   - 03-myos-dash.gschema.override
