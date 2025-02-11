@@ -1,9 +1,9 @@
 [Unit]
-Description=Custom Cockpit Service
+Description=Custom Service
 After=network.target
 
 [Service]
-ExecStart=/usr/libexec/cockpit-ws
+ExecStart=/usr/libexec/CUSTOM
 Restart=always
 
 [Install]
